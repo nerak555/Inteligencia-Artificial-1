@@ -1,0 +1,29 @@
+# Dataset MNIST-M:
+
+https://huggingface.co/datasets/Mike0307/MNIST-M
+
+
+- Debido al tamaño de los archivos, solo se incluye 1parte del dataset en el .zip
+ la otra parte esta en el link de mi cuaderno de drive:
+
+------------------------------------------------------------------------------------
+
+Laboratorio 05 en DRIVE:
+
+https://drive.google.com/drive/folders/1f1oOQPlS_s6YQbBdA4NKVsXrpvTTphEj?usp=sharing
+
+------------------------------------------------------------------------------------
+
+**Train:**
+https://drive.google.com/file/d/1wUpzJ63JQT7fYTaquawROt0lJcNUvRBX/view?usp=drive_link
+
+**Test:**
+https://drive.google.com/file/d/1QXpvF8OlHOpTI66J81ncz1iBTNon-P1I/view?usp=drive_link
+
+
+-------------------------------------------------------------------------------------
+
+Archivos utilizados:
+
+* `train-00000-of-00001-571b6b1e2c195186.parquet`
+* `test-00000-of-00001-ba3ad971b105ff65.parquet`
